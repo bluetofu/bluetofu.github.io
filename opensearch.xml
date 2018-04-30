@@ -10,7 +10,7 @@ sitemap: false
   <ShortName>{{ site.name }}</ShortName>
   <Description>Search {{ site.name }}</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">{{ site.url }}/favicon.ico</Image>
+  <Image width="16" height="16" type="image/x-icon">{{ site.url }}/assets/img/favicon.jpg</Image>
   <Url type="text/html" method="get" template="{{ site.url }}/search/?q={searchTerms}"/>
   <moz:SearchForm>{{ site.url }}/search/</moz:SearchForm>
 </OpenSearchDescription>

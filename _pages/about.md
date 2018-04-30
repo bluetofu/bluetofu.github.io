@@ -1,129 +1,52 @@
 ---
 layout: page
 title: "About"
-description: "This is what I do."
-excerpt: "I'm Milan Aryal, a student living in Kathmandu, Nepal who loves getting lost in developing web, watching movies, and travelling new places."
+description: "This is who I am"
+excerpt: "I'm Wootaek"
 image: "/assets/img/about.jpg"
 permalink: /about/
 ---
 
-Hello, my name is Milan Aryal (मिलन अर्याल) and I'm a student living in Kathmandu, Nepal who loves getting lost in web design, front-end development, and listening music a lot.
+Hello, my name is Wootaek Oh (오우택) and I'm a Data Scientist at [Devsisters](http://en.wikipedia.org/wiki/Devsisters) in Seoul, Korea who loves searching into the ocean of data for insights, and surfing on the wave for the moment.
 
-> The name Milan (pronounced MEE-lahn), means dear, loving and gracious in Slavic; in Ancient Roman, eager and laborious; and in Sanskrit, unification.
+### Data
 
-### Let's be friends
+As smart phones become prevalent and computer networks have intensified, I wondered where all the logs, data generated from all sorts of electric devices, would go. I could not stop thinking that there must be a value to all the logs if we could read between those numbers.
 
-Join me on the following networks and/or websites:
+After being discharged from the army, I switched my major from sociology to statistics to learn to read between the numbers. I chose sociology as a freshman because I was always curious about the reasons behind various social phenomena, but then I felt statistics, or the numbers, would provide more objective and precise reasons in explaining the events taking place around us.
+
+After garnering enough experiences, I hope to start my own business which captures the most challenging problems we face today and turn hard data into useful insights and compelling stories to answer the problems.
+
+### Surfing
+
+My name Wootaek means rain and pond. My parents gave me this name after the fortune teller told that I'm in short of water. Believe it or not, I always lived close to the sea (except for college years) and I feel really comfortable in the ocean maybe because of my name.  
+
+I first learned to surf in Busan, hometown to my parents, where I realized surfing was my meant-to-be activity. I'm looking forward to surfing near LA this summer and in Bali later in this year.
+
+### Interested? Let's be friends!
+
+Join me on the following channels:
 
 <!-- Social links -->
 <ul class="social-links">
   <li>
-    <a rel="me" href="//twitter.com/MilanAryal">
-      <span class="svg-icon svg-baseline" aria-hidden="true">
-        <svg><use xlink:href="/assets/icons/icons.min.svg#icon-twitter"></use></svg>
-      </span><br><span class="label">Twitter</span>
-    </a>
-  </li>
-  <li>
-    <a rel="me" href="//facebook.com/considermilan">
-      <span class="svg-icon svg-baseline" aria-hidden="true">
-        <svg><use xlink:href="/assets/icons/icons.min.svg#icon-facebook"></use></svg>
-      </span><br><span class="label">Facebook</span>
-    </a>
-  </li>
-  <li>
-     <a rel="me" href="//instagram.com/milanaryal">
+     <a rel="me" href="//instagram.com/bluetofu_oh">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-instagram"></use></svg>
       </span><br><span class="label">Instagram</span>
     </a>
   </li>
   <li>
-    <a rel="me" href="//github.com/MilanAryal">
+    <a rel="me" href="//github.com/bluetofu">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-github"></use></svg>
       </span><br><span class="label">GitHub</span>
     </a>
   </li>
-  <li>
-    <a rel="me" href="//keybase.io/milanaryal">
-      <span class="svg-icon svg-baseline" aria-hidden="true">
-        <svg><use xlink:href="/assets/icons/icons.min.svg#icon-key"></use></svg>
-      </span><br><span class="label">Keybase</span>
-    </a>
-  </li>
-  <li>
-    <a rel="me" href="//snapchat.com/add/milanaryal">
-      <span class="svg-icon svg-baseline" aria-hidden="true">
-        <svg><use xlink:href="/assets/icons/icons.min.svg#icon-snapchat"></use></svg>
-      </span><br><span class="label">Snapchat</span>
-    </a>
-  </li>
-  <li>
-    <a rel="me" href="//google.com/+MilanAryal">
-      <span class="svg-icon svg-baseline" aria-hidden="true">
-        <svg><use xlink:href="/assets/icons/icons.min.svg#icon-google-plus"></use></svg>
-      </span><br><span class="label">Google+</span>
-    </a>
-  </li>
-  <li>
-    <a rel="me" href="//linkedin.com/in/MilanAryal">
-      <span class="svg-icon svg-baseline" aria-hidden="true">
-        <svg><use xlink:href="/assets/icons/icons.min.svg#icon-linkedin"></use></svg>
-      </span><br><span class="label">LinkedIn</span>
-    </a>
-  </li>
-  <li>
-    <a rel="me" href="//pinterest.com/milanaryal">
-      <span class="svg-icon svg-baseline" aria-hidden="true">
-        <svg><use xlink:href="/assets/icons/icons.min.svg#icon-pinterest"></use></svg>
-      </span><br><span class="label">Pinterest</span>
-    </a>
-  </li>
-  <li>
-    <a rel="me" href="//milanaryal.tumblr.com">
-      <span class="svg-icon svg-baseline" aria-hidden="true">
-        <svg><use xlink:href="/assets/icons/icons.min.svg#icon-tumblr"></use></svg>
-      </span><br><span class="label">Tumblr</span>
-    </a>
-  </li>
-  <li>
-    <a rel="me" href="//medium.com/@MilanAryal">
-      <span class="svg-icon svg-baseline" aria-hidden="true">
-        <svg><use xlink:href="/assets/icons/icons.min.svg#icon-medium"></use></svg>
-      </span><br><span class="label">Medium</span>
-    </a>
-  </li>
 </ul>
 
-<p class="pgp-key">
-  <a href="//keybase.io/milanaryal/key.asc">
-    PGP: <code>2171 85B2 389A 9A61 CA48  4397 983A A4D9 F0D5 8849</code>
-  </a>
-</p>
-
-Writing articles is hard, but making up designs is fun. I made this site so I would be able to do both.
-
-Nothing brings me more pleasure than making something out of nothing. Even when the results are far from my ideal expectations, I find the whole ceremony of creativity completely enthralling.
-
-I'd like to think that I'm very happy person, but I find the art that strikes me truest is the sad, depressing sort, I love hip-hop and R&B music, post-apocalyptic fiction, and movie trailers that can make me squirt tears in under two minutes. Go figure.
-
-### About the site
-
-In this site you'll find a recollection of thoughts and opinions based on my experience regarding subjects and issues that are of interest to is all in the web industry, subjects such as design, development, or the blogosphere among other web culture topics.
-
-In case you were wondering, this site is:
-
-* Designed and developed on a [Ubuntu OS](http://www.ubuntu.com/)
-* Developed with [Atom](http://atom.io/)
-* Used [Bootstrap](http://getbootstrap.com/) framework
-* Built on [Jekyll](http://jekyllrb.com/), the open source static site generator
-* Hosted on [GitHub Pages](http://pages.github.com/)
-
-...for more informations see [humans.txt](/humans.txt).
-
-If you enjoy the content found here, you might like to subscribe to my <span class="svg-icon icon-feed svg-baseline" aria-hidden="true"><svg><use xlink:href="/assets/icons/icons.min.svg#icon-feed"></use></svg></span> [feed](/feed.xml). Also feel free to send me any feedback, comments, or suggestions about the site.
-
+<!--
 ### Licensing
 
 Except as otherwise noted, the content of this site is licensed under the <a rel="license cc:license" href="//creativecommons.org/licenses/by/4.0/">Creative Commons Attribution 4.0 International license</a>, and code samples are licensed under the <a rel="license" href="//raw.githubusercontent.com/MilanAryal/milanaryal.github.io/master/LICENSE">MIT license</a>.
+-->

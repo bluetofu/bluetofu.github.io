@@ -1,30 +1,22 @@
-title: Milan Aryal
-description: "Livin' on the edge of web standards."
-url: https://milanaryal.com
+title: Wootaek Oh #This goes to top-right of the landing page
+description: "Collection of my history" #This goes to writings page
+url: https://bluetofu.github.io
 
 logo:
-  path: "/assets/img/m-icon-blue-on-white.png"
+  path: "/assets/img/brave_cookie"
   width: 300
   height: 300
 
-image: "/assets/img/writings.jpg"
-theme_color: "#2196f3"
-
 author:
-  name: Milan Aryal
-  email: considermilan@gmail.com
+  name: Wootaek Oh
+  email: mario.wt.oh@gmail.com
   uri: https://twitter.com/MilanAryal
-  avatar: "/assets/img/m-icon-white-on-blue.png"
-  bio: "I love getting lost in developing web, watching movies, and travelling new places."
-  facebook: considermilan
-  twitter: MilanAryal
-  instagram: milanaryal
-  google_plus: MilanAryal
-  linkedin: MilanAryal
-  pinterest: milanaryal
-  tumblr: milanaryal
-  github: MilanAryal
-  keybase: milanaryal
+  avatar: "/assets/img/favicon.jpg" #This is not favicon image
+  bio: "Following the inner core" #This appears in the landing page
+  facebook:
+  instagram: bluetofu_oh
+  linkedin: wootaekoh
+  github: bluetofu
   street: "Chandragiri 15"
   locality: Kathmandu
   region: Bagmati
@@ -44,10 +36,12 @@ google_analytics_id: UA-42092423-1
 language: en
 
 nav:
-  - title: Writings
-    url: "/writings/"
   - title: About
     url: "/about/"
+  - title: Archives
+    url: "/writings/"
+  - title: Resume
+    url: "/assets/img/WootaekOh_Resume_Spring2018.pdf"
   - title: Contact
     url: "/contact/"
 
