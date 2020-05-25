@@ -30,7 +30,7 @@ Join me on the following channels:
 <!-- Social links -->
 <ul class="social-links">
   <li>
-     <a rel="me" href="//instagram.com/bluetofu_oh">
+     <a rel="me" href="//instagram.com/bluetofu.oh">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-instagram"></use></svg>
       </span><br><span class="label">Instagram</span>

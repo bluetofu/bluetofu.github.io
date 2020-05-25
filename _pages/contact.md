@@ -11,7 +11,7 @@ If you have any questions, comments, or would just like to say hello in general,
 <ul class="social-links">
   {% if site.author.instagram %}
   <li>
-     <a rel="me" href="//instagram.com/bluetofu_oh">
+     <a rel="me" href="//instagram.com/bluetofu.oh">
       <span class="svg-icon svg-baseline" aria-hidden="true">
         <svg><use xlink:href="/assets/icons/icons.min.svg#icon-instagram"></use></svg>
       </span><br><span class="label">Instagram</span>
